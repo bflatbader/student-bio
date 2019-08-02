@@ -7,9 +7,9 @@ table {
 }
 
 th {
-    text-align: left; 
-    padding: 15px;
+    padding: 0px 15px;
     background-image: linear-gradient(to right, #38388d , white);
+    text-align: left; 
     font-style: italic;
     font-size: 22px;
 }
