@@ -1,0 +1,11 @@
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+th {
+    text-align: left; 
+    padding: 10px;
+    background-image: linear-gradient(to right, #38388d , white);
+}
+h3 {
+    color: gray;
+}
